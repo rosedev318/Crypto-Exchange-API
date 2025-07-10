@@ -1,6 +1,5 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-
 import time
 import boto3
 from redis.sentinel import Sentinel
