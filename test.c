@@ -13,6 +13,7 @@
 #include "hiredis.h"
 #include "net.h"
 
+
 enum connection_type {
     CONN_TCP,
     CONN_UNIX,
